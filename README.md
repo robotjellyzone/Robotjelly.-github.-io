@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+## Android Apps
+Android apps are a great way to make our life flexible and comfortable. 
+Google's got a lot of apps. Maybe even too many, in certain cases.
+Here I am giving some examples of apps which are very useful to us:--
+1. Google Handwriting Input. 
+2. Trusted Contacts. 
+3. Google Trips
+4. Google Arts & Culture. 
+5. Chrome Remote Desktop. 
+6. Google Opinion Rewards. 
+7. Android Auto. 
+8. Wallpapers. 
+
 
 You can use the [editor on GitHub](https://github.com/robotjellyzone/Robotjelly.-github.-io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,15 +23,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Header 1 
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
